@@ -4,9 +4,9 @@ Villagers+ is a Minecraft mod that adds new villagers, trades, and systems to ma
 From unique villagers like the Bunker Villager and Void Villager to custom trade options, Villagers+ enhances the vanilla experience.
 
 ## Reporting Bugs
-Please use the [GitHub Issues](https://github.com/YOUR_USERNAME/VillagersPlus/issues) to report bugs. When submitting, include:
+Please use the [GitHub Issues]([https://github.com/CurseWater71/Villagers-/issues/1]) to report bugs. When submitting, include:
 - Minecraft version
-- Villagers+ mod version
+- Villagers+ mod version 
 - Steps to reproduce the issue
 - Logs or crash reports (if available)
 
