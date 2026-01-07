@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for Villagers+
 title: Feature request for Villagers+
-labels: ''
+labels: Feature
 assignees: ''
 
 ---

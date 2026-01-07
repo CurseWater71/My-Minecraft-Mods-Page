@@ -2,7 +2,7 @@
 name: Villagers+ Bug Report
 about: Create a report to help me improve
 title: Villagers+ Bug Report
-labels: ''
+labels: bug
 assignees: ''
 
 ---
