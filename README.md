@@ -14,7 +14,10 @@ Please use the [GitHub Issues](https://github.com/CurseWater71/Villagers-/issues
 Use the feature request template in the Issues tab to propose new villagers, trades, or systems.
 
 ## CurseForge
-Download Villagers+ at: [Village+](https://www.curseforge.com/minecraft/mc-mods/extravillage)
+Download Villagers+ at: (https://www.curseforge.com/minecraft/mc-mods/extravillage)
+Or
+## Modrinth
+Download Villagers+ at:(https://modrinth.com/mod/villager+)
 
 ⚠️ Please only submit this type of issue. 
 - Bug Report: Only for errors, crashes, or unintended behavior
