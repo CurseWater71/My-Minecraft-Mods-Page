@@ -1,6 +1,6 @@
 # My Mods
 
-This GitHub will be where you can report and suggest new features for my mods if you would like to. 
+This GitHub repo is where you can report issues and suggest new features for my mods, if you would like. 
 
 ## Reporting Bugs
 Please use my [GitHub Issues](https://github.com/CurseWater71/Villagers-/issues/1) to report bugs. When submitting, include:
@@ -14,10 +14,10 @@ Please use my [GitHub Issues](https://github.com/CurseWater71/Villagers-/issues/
 Use the feature request template in the Issues tab to propose new features
 
 ## CurseForge
-My profile: [https://www.curseforge.com/minecraft/mc-mods/extravillage]
+My Profile: [https://www.curseforge.com/members/cursewater71/projects]
 
 ## Modrinth
-My profile: [https://modrinth.com/mod/villager+]
+My Profile: [https://modrinth.com/user/ModWater71]
 
 ⚠️ Please only submit this type of issue. 
 - Bug Report: Only for errors, crashes, or unintended behavior
