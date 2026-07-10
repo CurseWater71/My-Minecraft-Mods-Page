@@ -3,7 +3,7 @@
 This GitHub repo is where you can report issues and suggest new features for my mods, if you would like. 
 
 ## Reporting Bugs
-Please use my [GitHub Issues](https://github.com/CurseWater71/Villagers-/issues/1) to report bugs. When submitting, include:
+Please use my [GitHub Issues](https://github.com/CurseWater71/My-Minecraft-Mods-Page/issues) to report bugs. When submitting, include:
 - Minecraft version
 - The Mod
 - The Mod version 
